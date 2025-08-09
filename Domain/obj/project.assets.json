@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Projects\\AutenticationCore\\Domain\\Domain.csproj",
+      "projectUniqueName": "C:\\Projects\\AuthenticationCore\\Domain\\Domain.csproj",
       "projectName": "Domain",
-      "projectPath": "C:\\Projects\\AutenticationCore\\Domain\\Domain.csproj",
+      "projectPath": "C:\\Projects\\AuthenticationCore\\Domain\\Domain.csproj",
       "packagesPath": "C:\\Users\\AvvalStock.com\\.nuget\\packages\\",
-      "outputPath": "C:\\Projects\\AutenticationCore\\Domain\\obj\\",
+      "outputPath": "C:\\Projects\\AuthenticationCore\\Domain\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

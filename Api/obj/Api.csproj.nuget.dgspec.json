@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Projects\\AutenticationCore\\Api\\Api.csproj": {}
+    "C:\\Projects\\AuthenticationCore\\Api\\Api.csproj": {}
   },
   "projects": {
-    "C:\\Projects\\AutenticationCore\\Api\\Api.csproj": {
+    "C:\\Projects\\AuthenticationCore\\Api\\Api.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Projects\\AutenticationCore\\Api\\Api.csproj",
+        "projectUniqueName": "C:\\Projects\\AuthenticationCore\\Api\\Api.csproj",
         "projectName": "Api",
-        "projectPath": "C:\\Projects\\AutenticationCore\\Api\\Api.csproj",
+        "projectPath": "C:\\Projects\\AuthenticationCore\\Api\\Api.csproj",
         "packagesPath": "C:\\Users\\AvvalStock.com\\.nuget\\packages\\",
-        "outputPath": "C:\\Projects\\AutenticationCore\\Api\\obj\\",
+        "outputPath": "C:\\Projects\\AuthenticationCore\\Api\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -32,14 +32,14 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\Projects\\AutenticationCore\\Application\\Application.csproj": {
-                "projectPath": "C:\\Projects\\AutenticationCore\\Application\\Application.csproj"
+              "C:\\Projects\\AuthenticationCore\\Application\\Application.csproj": {
+                "projectPath": "C:\\Projects\\AuthenticationCore\\Application\\Application.csproj"
               },
-              "C:\\Projects\\AutenticationCore\\Domain\\Domain.csproj": {
-                "projectPath": "C:\\Projects\\AutenticationCore\\Domain\\Domain.csproj"
+              "C:\\Projects\\AuthenticationCore\\Domain\\Domain.csproj": {
+                "projectPath": "C:\\Projects\\AuthenticationCore\\Domain\\Domain.csproj"
               },
-              "C:\\Projects\\AutenticationCore\\Infrastructure\\Infrastructure.csproj": {
-                "projectPath": "C:\\Projects\\AutenticationCore\\Infrastructure\\Infrastructure.csproj"
+              "C:\\Projects\\AuthenticationCore\\Infrastructure\\Infrastructure.csproj": {
+                "projectPath": "C:\\Projects\\AuthenticationCore\\Infrastructure\\Infrastructure.csproj"
               }
             }
           }
@@ -104,14 +104,14 @@
         }
       }
     },
-    "C:\\Projects\\AutenticationCore\\Application\\Application.csproj": {
+    "C:\\Projects\\AuthenticationCore\\Application\\Application.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Projects\\AutenticationCore\\Application\\Application.csproj",
+        "projectUniqueName": "C:\\Projects\\AuthenticationCore\\Application\\Application.csproj",
         "projectName": "Application",
-        "projectPath": "C:\\Projects\\AutenticationCore\\Application\\Application.csproj",
+        "projectPath": "C:\\Projects\\AuthenticationCore\\Application\\Application.csproj",
         "packagesPath": "C:\\Users\\AvvalStock.com\\.nuget\\packages\\",
-        "outputPath": "C:\\Projects\\AutenticationCore\\Application\\obj\\",
+        "outputPath": "C:\\Projects\\AuthenticationCore\\Application\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -132,8 +132,8 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\Projects\\AutenticationCore\\Domain\\Domain.csproj": {
-                "projectPath": "C:\\Projects\\AutenticationCore\\Domain\\Domain.csproj"
+              "C:\\Projects\\AuthenticationCore\\Domain\\Domain.csproj": {
+                "projectPath": "C:\\Projects\\AuthenticationCore\\Domain\\Domain.csproj"
               }
             }
           }
@@ -183,14 +183,14 @@
         }
       }
     },
-    "C:\\Projects\\AutenticationCore\\Domain\\Domain.csproj": {
+    "C:\\Projects\\AuthenticationCore\\Domain\\Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Projects\\AutenticationCore\\Domain\\Domain.csproj",
+        "projectUniqueName": "C:\\Projects\\AuthenticationCore\\Domain\\Domain.csproj",
         "projectName": "Domain",
-        "projectPath": "C:\\Projects\\AutenticationCore\\Domain\\Domain.csproj",
+        "projectPath": "C:\\Projects\\AuthenticationCore\\Domain\\Domain.csproj",
         "packagesPath": "C:\\Users\\AvvalStock.com\\.nuget\\packages\\",
-        "outputPath": "C:\\Projects\\AutenticationCore\\Domain\\obj\\",
+        "outputPath": "C:\\Projects\\AuthenticationCore\\Domain\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -248,14 +248,14 @@
         }
       }
     },
-    "C:\\Projects\\AutenticationCore\\Infrastructure\\Infrastructure.csproj": {
+    "C:\\Projects\\AuthenticationCore\\Infrastructure\\Infrastructure.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Projects\\AutenticationCore\\Infrastructure\\Infrastructure.csproj",
+        "projectUniqueName": "C:\\Projects\\AuthenticationCore\\Infrastructure\\Infrastructure.csproj",
         "projectName": "Infrastructure",
-        "projectPath": "C:\\Projects\\AutenticationCore\\Infrastructure\\Infrastructure.csproj",
+        "projectPath": "C:\\Projects\\AuthenticationCore\\Infrastructure\\Infrastructure.csproj",
         "packagesPath": "C:\\Users\\AvvalStock.com\\.nuget\\packages\\",
-        "outputPath": "C:\\Projects\\AutenticationCore\\Infrastructure\\obj\\",
+        "outputPath": "C:\\Projects\\AuthenticationCore\\Infrastructure\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -276,11 +276,11 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\Projects\\AutenticationCore\\Application\\Application.csproj": {
-                "projectPath": "C:\\Projects\\AutenticationCore\\Application\\Application.csproj"
+              "C:\\Projects\\AuthenticationCore\\Application\\Application.csproj": {
+                "projectPath": "C:\\Projects\\AuthenticationCore\\Application\\Application.csproj"
               },
-              "C:\\Projects\\AutenticationCore\\Domain\\Domain.csproj": {
-                "projectPath": "C:\\Projects\\AutenticationCore\\Domain\\Domain.csproj"
+              "C:\\Projects\\AuthenticationCore\\Domain\\Domain.csproj": {
+                "projectPath": "C:\\Projects\\AuthenticationCore\\Domain\\Domain.csproj"
               }
             }
           }

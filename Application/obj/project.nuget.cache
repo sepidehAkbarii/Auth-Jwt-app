@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "7Nf44uRdqQw=",
+  "dgSpecHash": "BOnN3Evu8as=",
   "success": true,
-  "projectFilePath": "C:\\Projects\\AutenticationCore\\Application\\Application.csproj",
+  "projectFilePath": "C:\\Projects\\AuthenticationCore\\Application\\Application.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\AvvalStock.com\\.nuget\\packages\\bcrypt.net-next\\4.0.3\\bcrypt.net-next.4.0.3.nupkg.sha512",
     "C:\\Users\\AvvalStock.com\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\8.0.0\\microsoft.extensions.dependencyinjection.abstractions.8.0.0.nupkg.sha512",

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "veCg58GW0eU=",
+  "dgSpecHash": "ubypz/RWbpE=",
   "success": true,
-  "projectFilePath": "C:\\Projects\\AutenticationCore\\Domain\\Domain.csproj",
+  "projectFilePath": "C:\\Projects\\AuthenticationCore\\Domain\\Domain.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
